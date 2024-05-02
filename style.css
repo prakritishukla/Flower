@@ -78,7 +78,7 @@ header .container .row .navbar h1.logo:hover span {
 }
 
 section.section1 {
-    background: url(./assets/section1banner.jpg);
+    background: url(./section1banner.jpg);
     height: 700px;
     margin-top: 170px;
     display: flex;
